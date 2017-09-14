@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     public void test1()
     {
-        System.out.print("test1 is here NOW");
+        System.out.print("test1 is here");
     }
 }
