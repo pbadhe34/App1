@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     public void test1()
     {
-        System.out.print("Now updated here");
+        System.out.print(" updated here");
     }
 }
